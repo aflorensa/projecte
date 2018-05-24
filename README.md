@@ -8,3 +8,15 @@ Semana 14/05/2018:
 - Acabar parte de Visual Studio.
 - Hacer UML para java.
 - Empezar el programa de java.
+
+Semana 21/05/2018:
+- Acabar parte de java.
+- Hacer jUnit java.
+- Hacer javadoc java.
+- Hacer manual de usuario java.
+- Hacer Aplicacion Android
+- Hacer manual de usuario android.
+- Juntar los manuales y acabar de pulir los ficheros i aplicaciones
+
+DIA 24/05/2018
+- Proyecto acabado.
